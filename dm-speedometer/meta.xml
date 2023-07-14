@@ -1,0 +1,25 @@
+<meta>
+	<info author="Meta Scripts -Beyonder" type="script" name="Login Panel" version="1.0" />
+        <!-- settings -->
+	<script src="settings.lua" type="shared" cache = "false" />
+		<!-- IMGS-->
+    <file src ="imgs/daybackground.png" />
+    <file src ="imgs/nightbackground.png" />
+    <file src ="imgs/night_line.png" />
+    <file src ="imgs/day_line.png" />
+    <file src ="imgs/font.ttf" />
+
+        <!-- GUI -->
+
+        <!-- Client -->
+        
+    <script src="client/desing.lua" type="client" cache = "false" />
+
+    <script src="client/util_c.lua" type="client" cache = "false" />
+
+
+        <!-- server -->
+
+
+
+</meta>
